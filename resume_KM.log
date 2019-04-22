@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.10)  21 MAR 2019 12:39
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.6930 64-bit) (preloaded format=xelatex 2019.1.10)  22 MAR 2019 12:01
 entering extended mode
 **./resume_KM.tex
 (resume_KM.tex
@@ -687,6 +687,6 @@ Here is how much of TeX's memory you used:
  30258 multiletter control sequences out of 15000+200000
  534470 words of font info for 81 fonts, out of 3000000 for 9000
  1328 hyphenation exceptions out of 8191
- 54i,11n,72p,802b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 54i,11n,72p,802b,573s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on resume_KM.pdf (2 pages).
